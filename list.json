@@ -1,0 +1,16 @@
+{
+    "users" : [
+        {
+            "id" : 123,
+            "ime" : "Jura",
+            "prezime" : "Juric",
+            "img" : "",
+            "spol" : "m",
+            "godRod" : 1987,
+            "pocetakRada" : 2012,
+            "vrstaUgovora" : "neodredeno", 
+            "trajanjeUgovora" : "trajno", 
+            "odjel" : "IT"
+        }
+    ]
+}
